@@ -1,4 +1,4 @@
-E-Commerce Olist Store Analysis Dashboard
+Project Title - E-Commerce Olist Store Analysis 
 
 This dashboard provides a comprehensive analysis of sales, customer, and operational metrics for the Olist store. It highlights performance trends, payment behaviors, and the relationship between various factors such as shipping times and review scores. The insights are broken down by key categories including total sales, payment types, customer demographics, and shipping efficiency.
 
